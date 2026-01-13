@@ -49,7 +49,7 @@ export default function RewardsPage() {
         <div className="reward-buttons">
           {/* Amazon */}
           <a
-            href="https://glctrk.org/aff_c?offer_id=3334&aff_id=153841"
+            href="https://uplevelrewarded.com/aff_c?offer_id=1698&aff_id=153841&source=SKR"
             className="reward-button amazon-dance"
           >
             <img src="amazon.jpg" alt="" className="reward-icon" />
@@ -61,7 +61,7 @@ export default function RewardsPage() {
 
           {/* Cash */}
           <a
-            href="https://glctrk.org/aff_c?offer_id=3308&aff_id=153841"
+            href="https://uplevelrewarded.com/aff_c?offer_id=1145&aff_id=153841&source=SKR"
             className="reward-button"
           >
             <img src="cashapp.jpg" alt="" className="reward-icon" />
